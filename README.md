@@ -8,6 +8,22 @@
 <img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVkNnA0anlvOXNzdndqdDY1OG9lcHc4dml6OGp6OWxxcDFzbmZyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif">
 <img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/4TmxH7ZMn1aYE/giphy.gif?cid=790b76111fag6mnuimfvuqqpouvv01m9ky8fqx0cxjsm19km&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### 🚀 About Me:
 - 🔯 I’m currently working on **an E-Commerce Website** 🎁
 - 🌟 Currently diving deeper into **Advanced MERN Topics** 💡
