@@ -6,7 +6,7 @@
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nishayadav4245&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVkNnA0anlvOXNzdndqdDY1OG9lcHc4dml6OGp6OWxxcDFzbmZyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif">
-<img align="right" alt="Girl Coding" width="400" src="https://media.giphy.com/media/4TmxH7ZMn1aYE/giphy.gif?cid=790b76111fag6mnuimfvuqqpouvv01m9ky8fqx0cxjsm19km&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
 
 
 
