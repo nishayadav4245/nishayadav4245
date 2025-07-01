@@ -25,7 +25,7 @@
 
 
 ### 🚀 About Me:
-- 🔯 I’m currently working on **an E-Commerce Website** 🎁
+- 🔯 I’m currently working on **an car rental Website** 🎁
 - 🌟 Currently diving deeper into **Advanced MERN Topics** 💡
 - 👯‍♀️ Open to collaboration on **MERN Projects** 💻
 - 🫶 Looking for mentorship & networking in **Web Development** 🤝
