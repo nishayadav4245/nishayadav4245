@@ -1,4 +1,8 @@
 ### 🌸 Hi there, I'm **Nisha Yadav**! 👋✨  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full-Stack+Web+Enthusiast;Clean+%26+Scalable+Code+Lover;Always+Learning+%F0%9F%92%AB" />
+</p>
+
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/nishayadav4245/nishayadav4245/main/download.gif" />
 
@@ -17,9 +21,6 @@ I enjoy working across the stack and turning ideas into reliable products.
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full-Stack+Web+Enthusiast;Clean+%26+Scalable+Code+Lover;Always+Learning+%F0%9F%92%AB" />
-</p>
 
 
 
@@ -51,15 +52,50 @@ src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" />
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 GitHub at a Glance
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nishayadav4245&layout=compact&theme=dracula)
+<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishayadav4245&show_icons=true&theme=dracula)
+<!-- Typing SVG -->
+<img
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Nisha+Yadav+👋;Code+Create+Innovate+✨;Turning+ideas+into+reality+💻"
+  alt="Typing SVG"
+/>
+
 
 ---
 
-<img align="center" width="100%"
-src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+### 📊 My Coding Universe
 
+<img src="https://github-readme-stats.vercel.app/api?username=nishayadav4245&show_icons=true&theme=dracula&hide_border=true&border_radius=15" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishayadav4245&layout=compact&theme=dracula&hide_border=true&border_radius=15" width="49%" />
+
+---
+
+
+
+
+---
+
+### 🛠 Tech I Love
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,nodejs,html,css,git,github,vscode&theme=dark" />
+</p>
+
+---
+
+<img width="100%" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" />
+
+
+
+
+</div>
+### 🤝 Let’s Collaborate
+
+<img align="right" width="120" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Vtd3V4bmd6M3RzZW9vdHZ4a2s0cGg5OW9yYXR2d3ZlM3p0c3N4YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" />
+
+- 🌍 Open-source contributions  
+- ⚛️ Frontend & Full-stack projects  
+- 🧠 Innovative ideas that solve real-world problems  
 
