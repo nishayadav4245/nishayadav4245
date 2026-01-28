@@ -1,140 +1,70 @@
-### 🌸 Hi there, I'm Nisha Yadav! 👋✨
-#### 💻 A Passionate MERN Stack Developer from India 🌟
+### 🌸 Hey there, I'm Nisha Yadav! 👋✨
+#### 💻 MERN Stack Developer | Problem Solver | Tech Enthusiast
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nishayadav4245&label=Profile%20views&color=ff69b4&style=flat)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nishayadav4245&theme=radical&row=1&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nishayadav4245&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVkNnA0anlvOXNzdndqdDY1OG9lcHc4dml6OGp6OWxxcDFzbmZyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif">
-### 🌸 Hi there, I'm Nisha Yadav! 👋✨
-#### 💻 A Passionate MERN Stack Developer from India 🌟
-
-![Profile Views](https://komarev.com/ghpvc/?username=nishayadav4245&label=Profile%20views&color=ff69b4&style=flat)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=nishayadav4245&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVkNnA0anlvOXNzdndqdDY1OG9lcHc4dml6OGp6OWxxcDFzbmZyMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif">
+<img align="right" alt="Coding Girl" width="380" src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif">
 
 ---
 
 ### 🚀 About Me:
-- 🔯 Currently working on **a Car Rental Website** 🎁
-- 🌟 Diving deeper into **Advanced MERN Topics** 💡
-- 👯‍♀️ Open to collaboration on **MERN Projects** 💻
-- 🫶 Looking for mentorship & networking in **Web Development** 🤝
-- 💬 Ask me about **React, Java (OOPs), C++, Python (NumPy, Pandas, Matplotlib)** 📚
-- 📩 Reach me at: **nishayadav4245@gmail.com** 📩
-- ✨ Fun fact: *I style myself like I design my websites—clean, functional, and with just the right amount of flair! ✨*
+- 🔯 Currently building **Car Rental & MERN Projects** 🎁  
+- 🌟 Exploring **Advanced MERN Stack & Full Stack Solutions** 💡  
+- 👯‍♀️ Open to collaborations & mentorship in **Web Development** 🤝  
+- 💬 Skills: **React, Node.js, Express, MongoDB, Java, Python, C++**  
+- ✨ Fun fact: *I code like I design—clean, functional, and full of flair!*  
 
 ---
 
-### 🌐 My Portfolio:
-Check out my projects and portfolio here:  
-[💻 Visit My Portfolio](https://developerportfolioofnisha.netlify.app)  
+### 🌐 Portfolio Highlights:
+Check my portfolio and live projects:
 
-<img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="600" alt="Portfolio Gif">
+<div align="center">
+  <a href="https://developerportfolioofnisha.netlify.app" target="_blank">
+    <img src="https://media.giphy.com/media/l2JhLzwE8pMZ5JvQc/giphy.gif" alt="Portfolio GIF" width="600"/>
+  </a>
+</div>
+
+💻 **Live Projects:**  
+| Project | Demo | Tech |
+|---------|------|------|
+| Car Rental Website | [Live](https://developerportfolioofnisha.netlify.app) | MERN, TailwindCSS |
+| Interactive Portfolio | [Live](https://developerportfolioofnisha.netlify.app#projects) | React, Animations |
+| Tic-Tac-Toe Game | [Play](https://playtictactoe.org/) | HTML, JS, CSS |
 
 ---
 
-### 📞 Connect With Me:
+### 📡 Connect With Me:
 <p>
-<a href="https://www.linkedin.com/in/nisha-yadav-2790881b3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="25" width="25" /></a>
-<a href="https://instagram.com/nishh.u_u" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="25" width="25" /></a>
-<a href="https://www.hackerrank.com/india@iot1b2211315" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="25" width="25" /></a>
-<a href="https://www.leetcode.com/nisha_yadav062" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/nisha-yadav-2790881b3" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Nisha-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://instagram.com/nishh.u_u" target="_blank"><img src="https://img.shields.io/badge/Instagram-Nishh-purple?style=for-the-badge&logo=instagram" alt="Instagram"/></a>
+<a href="https://www.hackerrank.com/india@iot1b2211315" target="_blank"><img src="https://img.shields.io/badge/HackerRank-Nisha-green?style=for-the-badge&logo=hackerrank" alt="HackerRank"/></a>
+<a href="https://www.leetcode.com/nisha_yadav062" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Nisha-orange?style=for-the-badge&logo=leetcode" alt="LeetCode"/></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools:
+### 🛠️ Tech Stack:
 <p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="35" height="35"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="35" height="35"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
 </p>
 
 ---
 
-### 🎮 Fun Zone:
-🎲 **Mini Games:** Play a [Tic-Tac-Toe Game](https://playtictactoe.org/) 🕹️
+### 🎮 Fun Developer Zone:
+🎲 **Mini Game:** [Tic-Tac-Toe](https://playtictactoe.org/) 🕹️  
 
-💻 **Cool Code Snippets:**
+💻 **Snippet of the Day:**
 ```javascript
 const greet = (name) => {
-  console.log(`Hello, ${name}! 🌸`);
+  console.log(`Hello, ${name}! Keep coding and creating! 🌸`);
 };
 greet("Nisha");
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### 🚀 About Me:
-- 🔯 I’m currently working on **an car rental Website** 🎁
-- 🌟 Currently diving deeper into **Advanced MERN Topics** 💡
-- 👯‍♀️ Open to collaboration on **MERN Projects** 💻
-- 🫶 Looking for mentorship & networking in **Web Development** 🤝
-- 💬 Ask me about **React, Java (OOPs), C++, Python (NumPy, Pandas, Matplotlib)** 📚
-- 📩 Reach me at: **nishayadav4245@gmail.com** 📩
-- ✨ Fun fact: *I style myself like I design my websites—clean, functional, and with just the right amount of flair! ✨*
-
-### 📞 Connect With Me:
-<p>
-<a href="https://www.linkedin.com/in/nisha-yadav-2790881b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="18" width="18" /></a>
-<a href="https://instagram.com/nishh.u_u" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="18" width="18" /></a>
-<a href="https://www.hackerrank.com/india@iot1b2211315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="18" width="18" /></a>
-<a href="https://www.leetcode.com/nisha_yadav062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="18" width="18" /></a>
-</p>
-
-### 🛠️ Languages & Tools:
-<p align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="30" height="30"/>
-</p>
-
-### 🎮 Fun Zone:
-🎲 **Mini Games:** Play a [Tic-Tac-Toe Game](https://playtictactoe.org/) 🕹️
-
-💻 **Cool Code Snippets:**
-```javascript
-const greet = (name) => {
-  console.log(`Hello, ${name}! 🌸`);
-};
-greet("Nisha");
-```
-
-### 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=nishayadav4245&show_icons=true&locale=en&layout=compact&theme=dracula)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishayadav4245&show_icons=true&locale=en&theme=dracula)
-
-<img align="center" alt="Coding" width="100%" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
