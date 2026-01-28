@@ -2,20 +2,26 @@
 
 <img align="right" width="320" src="https://raw.githubusercontent.com/nishayadav4245/nishayadav4245/main/download.gif" />
 
-### 🚀 MERN Stack
-- MongoDB
-- Express.js
-- React.js
-- Node.js
+#### MERN Stack Developer | Full-Stack Web Developer  
 
+I’m a Computer Science graduate with a strong interest in building  
+**scalable, maintainable, and performance-driven web applications**.  
+I enjoy working across the stack and turning ideas into reliable products.
+
+### What I Focus On
+- Writing **clean and readable code**
+- Building **end-to-end full-stack applications**
+- Understanding **system design & real-world use cases**
+- Continuous learning and improvement
+
+
+---
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full-Stack+Web+Enthusiast;Clean+%26+Scalable+Code+Lover;Always+Learning+%F0%9F%92%AB" />
 </p>
 
-<p align="center">
-  💻 Passionate <b>MERN Stack Developer</b> from <b>India</b> 🇮🇳  
-</p>
+
 
 <p align="center">
   <a href="https://developerportfolioofnisha.netlify.app">
