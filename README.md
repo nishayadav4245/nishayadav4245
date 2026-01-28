@@ -1,7 +1,13 @@
 ### 🌸 Hi there, I'm **Nisha Yadav**! 👋✨  
 
-<img align="right" width="260"
-src="https://raw.githubusercontent.com/nishayadav4245/nishayadav4245/main/assets/coding-girl.png"  />
+<img align="right" width="320" src="https://raw.githubusercontent.com/nishayadav4245/nishayadav4245/main/download.gif" />
+
+### 🚀 MERN Stack
+- MongoDB
+- Express.js
+- React.js
+- Node.js
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full-Stack+Web+Enthusiast;Clean+%26+Scalable+Code+Lover;Always+Learning+%F0%9F%92%AB" />
